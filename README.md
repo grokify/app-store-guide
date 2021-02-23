@@ -33,8 +33,24 @@ https://developer.atlassian.com/platform/marketplace/app-approval-guidelines/
 
 ### Security
 
+> How to Prepare for Security Review
+> 
+> 1. Complete two Trailhead modules: 
+> 
+> * [Develop Secure Web Apps >](https://trailhead.salesforce.com/en/content/learn/trails/security_developer)>)
+> * [AppExchange Security Review >](https://trailhead.salesforce.com/en/content/learn/modules/isv_security_review)
+> 
+> 2. Speak to a partner recruitment representative to confirm that your solution is fully enrolled and contracted into the [AppExchange Partner Program >](https://partners.salesforce.com/s/education/appinnovators/AppExchange_Partner_Program)
+> 
+> 3. Access the Partner Security Portal to:
+> 
 > * Run the static code analysis scanner, Checkmarx, on your Salesforce package components to check for any preliminary vulnerabilities.
 > * Run web app scanners Chimera or ZAP (https://security.secure.force.com/security/tools/webapp/zapbrowsersetup) (a web app scanner if you do not own the external domain) on the external component of your solution. Please note that these scans do not catch everything. You must perform your due diligence in manual testing to ensure secure development.
+> * Book submission-related or technical office hours for security review. 
+> 
+> 4. Watch the security review wizard walk-through demo below.
+> 
+> [Learn more about the security review process in the ISVforce Guide >](https://developer.salesforce.com/docs/atlas.en-us.packagingGuide.meta/packagingGuide/security_review_guidelines.htm)
 
 [Security Review Overview](https://partners.salesforce.com/s/education/appinnovators/Security_Review)
 
@@ -55,3 +71,5 @@ https://developer.atlassian.com/platform/marketplace/app-approval-guidelines/
 > Once you have submitted your app for review, after a successful functional review and prior to the publication of your app on the Zoom App Marketplace, the App Security team at Zoom will conduct a security and compliance review of your app.
 > 
 > The App Security team may, in its discretion, communicate with you regarding changes that you might have to make in order for your app to pass the security review; provided, however, that the results of the security review are confidential and may not be shared with third parties without Zoom’s prior written consent. Your app will not be approved on the Zoom App Marketplace unless it passes the security and compliance review. Learn more about our security best practices [here](https://marketplace.zoom.us/docs/guides/publishing/security).
+> 
+> ...
