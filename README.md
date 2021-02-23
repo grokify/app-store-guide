@@ -31,6 +31,11 @@ https://developer.atlassian.com/platform/marketplace/app-approval-guidelines/
 
 > Asking users to copy and paste HubSpot OAuth authorization codes or account API keys is prohibited. Not only does this add friction to the setup process, it’s a security liability.
 
+## Microsoft
+
+1. [10 app store principles to promote choice, fairness and innovation](https://blogs.microsoft.com/on-the-issues/2020/10/08/app-store-fairness-caf-interoperability-principles/)
+1. [Microsoft hits out at Apple with its new Windows app store policies](https://www.theverge.com/2020/10/8/21507682/microsoft-apple-app-store-policies-principles-list)
+
 ## Salesforce
 
 1. [Security Review Overview](https://partners.salesforce.com/s/education/appinnovators/Security_Review)
@@ -82,6 +87,7 @@ https://developer.atlassian.com/platform/marketplace/app-approval-guidelines/
 ## Zoom
 
 1. [Submission review](https://marketplace.zoom.us/docs/guides/publishing/app-submission/submission-review)
+1. [Security](https://marketplace.zoom.us/docs/guides/publishing/security)
 
 ### Security
 
