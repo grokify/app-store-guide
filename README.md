@@ -25,6 +25,10 @@ https://developer.atlassian.com/platform/marketplace/app-approval-guidelines/
 
 1. [Getting certified in the App Marketplace](https://developers.hubspot.com/docs/api/certification-requirements)
 
+### Security
+
+> Asking users to copy and paste HubSpot OAuth authorization codes or account API keys is prohibited. Not only does this add friction to the setup process, it’s a security liability.
+
 ## Salesforce
 
 1. [Security Review Overview](https://partners.salesforce.com/s/education/appinnovators/Security_Review)
@@ -57,6 +61,17 @@ https://developer.atlassian.com/platform/marketplace/app-approval-guidelines/
 ## Slack
 
 1. [Slack App Security Review](https://api.slack.com/security-review)
+
+### Security
+
+> We reserve the right to perform the following on the applicable parts of your application:
+> 
+> * Automated web application security scanning
+> * Automated network security scanning
+> * Manual verification of proper authentication scope requests to ensure least-privilege design
+> * Manual testing of functionality for security vulnerabilities and misuse
+> * Manual architecture review of your application
+> * Ask you follow-up questions about functionality
 
 ## Zoom
 
