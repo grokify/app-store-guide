@@ -1,9 +1,11 @@
 # App Store Review Process
 
 1. [Apple](#apple)
+1. [Atlassian](#atlassian)
 1. [HubSpot](#hubspot)
 1. [Salesforce](#salesforce)
 1. [Slack](#slack)
+1. [Zendesk](#zendesk)
 1. [Zoom](#zoom)
 
 ## Apple
@@ -72,6 +74,10 @@ https://developer.atlassian.com/platform/marketplace/app-approval-guidelines/
 > * Manual testing of functionality for security vulnerabilities and misuse
 > * Manual architecture review of your application
 > * Ask you follow-up questions about functionality
+
+## Zendesk
+
+1. [Publish your app or theme](https://developer.zendesk.com/apps/docs/publish/submit_your_app)
 
 ## Zoom
 
