@@ -43,7 +43,7 @@ https://developer.atlassian.com/platform/marketplace/app-approval-guidelines/
 > 
 > 1. Complete two Trailhead modules: 
 > 
-> * [Develop Secure Web Apps >](https://trailhead.salesforce.com/en/content/learn/trails/security_developer)>)
+> * [Develop Secure Web Apps >](https://trailhead.salesforce.com/en/content/learn/trails/security_developer)
 > * [AppExchange Security Review >](https://trailhead.salesforce.com/en/content/learn/modules/isv_security_review)
 > 
 > 2. Speak to a partner recruitment representative to confirm that your solution is fully enrolled and contracted into the [AppExchange Partner Program >](https://partners.salesforce.com/s/education/appinnovators/AppExchange_Partner_Program)
