@@ -20,6 +20,15 @@
 1. [What this AppExchange Partner did to Pass Security Review the First Time](https://medium.com/inside-the-salesforce-ecosystem/what-this-appexchange-partner-did-to-pass-security-review-the-first-time-16a0a5cbd1ba)
 1. [How To Pass Salesforce AppExchange Security Review](https://magicforce.co/blog/how-to-pass-salesforce-appexchange-security-review/)
 
+### Tools
+
+* Run the static code analysis scanner, Checkmarx, on your Salesforce package components to check for any preliminary vulnerabilities.
+* Run web app scanners Chimera or ZAP (https://security.secure.force.com/security/tools/webapp/zapbrowsersetup) (a web app scanner if you do not own the external domain) on the external component of your solution. Please note that these scans do not catch everything. You must perform your due diligence in manual testing to ensure secure development.
+
 ## Slack
 
 1. [Slack App Security Review](https://api.slack.com/security-review)
+
+## Zoom
+
+1. [Submission review](https://marketplace.zoom.us/docs/guides/publishing/app-submission/submission-review)
