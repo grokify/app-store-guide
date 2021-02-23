@@ -4,6 +4,7 @@
 1. [HubSpot](#hubspot)
 1. [Salesforce](#salesforce)
 1. [Slack](#slack)
+1. [Zoom](#zoom)
 
 ## Apple
 
